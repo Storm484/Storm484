@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-##<!--
 **Storm484/Storm484**
 
 - 🔭 I’m currently working on Computer Science Degree
@@ -9,4 +8,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Warhammer is the greatest Sci-Fi universe
--->
